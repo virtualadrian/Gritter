@@ -1,13 +1,27 @@
 # Gritter for jQuery 
 
-A small growl-like notification plugin for jQuery
-- http://boedesign.com/blog/2009/07/11/growl-for-jquery-gritter/
+A growl-like notification plugin for jQuery
+-------------------------------------------
+ 
 
 ## Installation
 
-    $ bower install jquery.gritter
+    $ bower install jq.gritter
+
+## NOTE  
+
+This package was forked from https://github.com/jboesch/Gritter for maintenance. 
+
+##  Roadmap
+
+* Update demo page 
+* Create unit tests
+* Review original repo and merge changes requested.
+* Create Angular directive & provider for the plugin.
+* Update package.json
 
 ## Change Log
+
 
 ### Changes in 1.7.4 (February 24, 2012)
 
